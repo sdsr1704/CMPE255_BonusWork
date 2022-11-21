@@ -1,8 +1,9 @@
 # CMPE255_BonusWork
 
+```bash
 CMPE 255: DATA MINING
-
 BONUS WORK 1
+```
 
 ```bash
 Deeksha Spoorthi Sammidi
